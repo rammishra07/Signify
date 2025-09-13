@@ -1,6 +1,7 @@
 # SigniFy - Real-Time Sign Language Translator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rammishra07/Signify)
+![GitHub last commit](https://img.shields.io/github/last-commit/rammishra07/Signify)
+
 
 ## Overview
 
