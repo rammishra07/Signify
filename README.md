@@ -1,4 +1,4 @@
-# SigniFy - Real-Time Sign Language Translator
+# SilentVoice - Real-Time Sign Language Translator
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/rammishra07/Signify)
 
