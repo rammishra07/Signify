@@ -1,6 +1,6 @@
 # SilentVoice - Real-Time Sign Language Translator
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rammishra07/Signify)
+![GitHub last commit](https://img.shields.io/github/last-commit/rammishra07/SilentVoice)
 
 
 ## Overview
@@ -41,7 +41,7 @@ SilentVoice is a real-time sign language translation system that leverages compu
 - Recommended: virtual environment
 
 ### Installation
-git clone https://github.com/rammishra07/Signify.git
+git clone (https://github.com/rammishra07/SilentVoice.git)
 cd Signify
 
 python -m venv venv
