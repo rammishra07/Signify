@@ -5,7 +5,7 @@
 
 ## Overview
 
-SigniFy is a real-time sign language translation system that leverages computer vision and deep learning to translate hand gestures captured from a webcam into readable text. It also provides an API server for image-based sign translation.
+SilentVoice is a real-time sign language translation system that leverages computer vision and deep learning to translate hand gestures captured from a webcam into readable text. It also provides an API server for image-based sign translation.
 
 ---
 
